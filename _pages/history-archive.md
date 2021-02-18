@@ -1,6 +1,6 @@
 ---
 title: "Posts-history"
 layout: posts
-permalink: /history-archive/
+permalink: /history/
 author_profile: true
 ---
