@@ -1,6 +1,6 @@
 ---
 title: "Posts by history"
-layout: posts
+layout: history
 permalink: /history/
 author_profile: true
 ---
