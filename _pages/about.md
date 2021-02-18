@@ -4,6 +4,5 @@ permalink: /about/
 layout: single
 ---
 
-## waterfogSW.github.io Introduction
-
-Blog that records what I've developed and studied
+This blog records what I've developed and studied
+Thank you for visiting my github blog
