@@ -138,8 +138,8 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      icon:  "fab fa-fw fa-instagram"
+      url:  "https://www.instagram.com/_waterfog9580/"
 
 
 # Reading Files
