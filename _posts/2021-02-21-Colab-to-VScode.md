@@ -16,7 +16,7 @@ published: true
 
 VScode에 Colab을 연결시키기 위해서는 먼저 Colab에 다음코드를 복사해서 실행한다. 
 
-'''
+'''  
 import random, string
 password = ''.join(random.choice(string.ascii_letters + string.digits) for i in range(20))
 
@@ -48,7 +48,7 @@ print("Root password: {}".format(password))
 #Get public address
 ! curl -s http://localhost:4040/api/tunnels | python3 -c \
     "import sys, json; print(json.load(sys.stdin)['tunnels'][0]['public_url'])"
-'''
+'''  
 
 Copy authtoken from https://dashboard.ngrok.com/auth
 실행 하게 되면 위와 같은 주소가 출력되는데 위 주소에 들어가서 구글 계정과 연결하고 Authtoken을 복사하여 입력한다. 
