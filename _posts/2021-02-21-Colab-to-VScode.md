@@ -7,8 +7,7 @@ tags:
   - 'Colab'
   - 'SSH'
   - 'VScode'
-last_modified_at: {}
-published: true
+last_modified_at: 2021-02-21T08:06:00-05:00
 ---
 ##Colab VScode에 연결해서 사용하기
 
