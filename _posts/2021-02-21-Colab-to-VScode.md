@@ -4,7 +4,9 @@ excerpt: Connect colab ssh to vscode
 categories:
   - Colab
 tags:
-  - 'Colab, VScode, SSH'
+  - 'Colab'
+  - 'SSH'
+  - 'VScode'
 last_modified_at: {}
 published: true
 ---
