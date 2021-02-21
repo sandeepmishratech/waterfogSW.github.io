@@ -9,7 +9,7 @@ tags:
   - 'VScode'
 last_modified_at: 2021-02-21T08:06:00-05:00
 ---
-##Colab VScode에 연결해서 사용하기
+## Colab VScode에 연결해서 사용하기
 
 ![ex_screenshot](https://www.stechstar.com/user/zbxe/files/attach/images/3151/119/064/c9342957dc10efc2948e86e7718ae516.png)
 
