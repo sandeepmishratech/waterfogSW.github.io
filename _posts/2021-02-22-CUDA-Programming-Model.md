@@ -1,5 +1,5 @@
 ---
-title: [CUDA]Programming Model
+title: "[CUDA]Programming Model"
 excerpt: CUDA기본적인 내용 정리
 categories:
   - CUDA
