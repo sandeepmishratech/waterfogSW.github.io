@@ -45,17 +45,7 @@ __global__ type fucntionName&lt;<&lt;numBlocks, threadsPerBlcok>>>(arg1,arg2,...
 
 CPU의 thread와 마찬가지로 CUDAD의 thread는 작업기본 단위입니다. CUDA에서의 thread는 Block단위로 묶이고, 다시 이 Block은 Grid단위로 묶입니다.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](./images/2021-02-22-CUDA-Programming-Model/cuda1.png "image_tooltip")
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](./images/2021-02-22-CUDA-Programming-Model/cuda2.png "image_tooltip")
 
 
@@ -158,11 +148,6 @@ main함수에서는 1차원의 block을 사용할때와 달리 numBlocks의 자�
 
 
 ## 2.3 Memory Hierarchy 
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](./images/2021-02-22-CUDA-Programming-Model/cuda3.png "image_tooltip")
 
