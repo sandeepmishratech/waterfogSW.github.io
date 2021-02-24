@@ -1,5 +1,5 @@
 ---
-title: [Env]VScode + WSL에 JAVA개발환경 구성하기
+title: "[Env]VScode + WSL에 JAVA개발환경 구성하기"
 excerpt: VScode + WSL에 JAVA개발환경 구성하기
 categories:
   - 'Env'
