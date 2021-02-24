@@ -1,8 +1,8 @@
 ---
-title: Colab VScode에 연결해서 사용하기
+title: [Env]Colab VScode에 연결해서 사용하기
 excerpt: Connect colab ssh to vscode
 categories:
-  - Colab
+  - Env
 tags:
   - 'Colab'
   - 'SSH'
