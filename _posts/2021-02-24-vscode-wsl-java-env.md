@@ -8,6 +8,7 @@ tags:
   - 'WSL'
   - 'VScode'
 last_modified_at: 2021-02-24T08:06:00-05:00
+toc : true
 ---
 
 알고리즘 강의를 수강하게 되면서 JAVA개발환경을 구축할 일이 생겼습니다.  
