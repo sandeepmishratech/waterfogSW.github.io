@@ -50,3 +50,7 @@ public class test {
     }
 }
 ```
+
+C/C++ 와 같은 다른 컴파일러를 VScode에서 사용하고 있다면 VScode의 왼쪽 메뉴의 Run에서 사용하는 컴파일러를 변경할 수 있습니다. 
+
+<img src ="/img/2021-02-24-java/chg_cmpler.png">
