@@ -1,8 +1,8 @@
 ---
-title: "[Code Test]두 개 뽑아서 더하기"
+title: "[Algorithm]두 개 뽑아서 더하기"
 excerpt: Programmers > 월간 코드 챌린지 시즌1 > 두 개 뽑아서 더하기
 categories:
-  - 'Code Test'
+  - 'Algorithm'
 tags:
   - 'Code Test'
   - 'Porgrammers'
