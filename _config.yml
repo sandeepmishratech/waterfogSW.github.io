@@ -24,7 +24,7 @@ description              : "DEV Study Log"
 url                      : "https://waterfogSW.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/avatar.png"
+teaser                   : 
 logo                     : "/assets/images/site_logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
