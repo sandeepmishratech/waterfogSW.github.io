@@ -11,6 +11,7 @@ toc: true
 ---
 
 ## MySQL이란?
+
 MySQL은 관계형 데이터베이스 관리 시스템(RDBMS: Relational DBMS)으로 오픈 소스이며, 다중 사용자와 다중 스레드를 지원합니다. C언어, C++, JAVA, PHP 등 여러 프로그래밍 언어를 위한 다양한 API를 제공하고 있습니다.
 
 MySQL 서버 및 클라이언트 설치
@@ -24,4 +25,3 @@ $sudo apt-get install mysql-server mysql-client
 ```terminal
 $mysql --version
 ```
-
