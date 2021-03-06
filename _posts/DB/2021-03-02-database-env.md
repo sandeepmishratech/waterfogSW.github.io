@@ -16,23 +16,48 @@ MySQL은 관계형 데이터베이스 관리 시스템(RDBMS: Relational DBMS)�
 
 ## MySQL 서버 및 클라이언트 설치
 
-```terminal
+### Step 1
+```
 $sudo apt-get install mysql-server mysql-client
 ```
 
 설치가 완료되면 다음 명령으로 MySQL이 정상적으로 설치되었는지 확인할 수 있습니다.
 
-```terminal
+### Step 2
+```
 $mysql --version
 ```
 
-다음 명령어로 MySQL을 실행하고 종료할 수 있습니다.
+### Step 3
+보안 설정을 위해 다음 명령을 실행합니다.
 ```
-sudo /tec/init.d/mysql start
+sudo mysql_secure_installation
+```
+>여기서 Can't connect to local MySQL server through socket '/var/>run/mysqld/mysqld.sock' 와 같은 에러가 발생한다면 다음 명령어를 실행합니다.
+>```
+>sudo service mysql restart
+>```
+
+옵션과 비밀번호를 설정해 줍니다. 
+- Remove anonymous users? (Press y|Y for Yes, any other key for No) : y
+- Disallow root login remotely? (Press y|Y for Yes, any other key for No) : y
+- Remove test database and access to it? (Press y|Y for Yes, any other key for No) : y
+- Reload privilege tables now? (Press y|Y for Yes, any other key for No) : y
+
+### Step 4
+다음 명령어를 실행하고 앞서 설정한 비밀번호를 입력하면 MySQL server에 연결할 수 있습니다.
+```
+sudo mysql -u root -p
 ```
 
-데이터 베이스에 접속하기 위해서는 다음과 같은 명령어로 접속합니다. root부분에는 다른 사용자 명이 들어갈수 있고, 초기비밀번호를 따로 설정하지 않으면 비밀번호 입력창은 enter를 눌러 넘깁니다.
+### Step 5
 
+현재 서버의 데이터베이스를 모두 보고 싶다면
 ```
-$mysql -u root -p
+mysql> show databases;
+```
+
+서버를 종료하고싶다면
+```
+mysql> exit
 ```
