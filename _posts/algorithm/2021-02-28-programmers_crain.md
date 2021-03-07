@@ -4,9 +4,7 @@ excerpt: Programmers > 2019 카카오 개발자 겨울 인턴십 > 크레인 인
 categories:
   - 'Algorithm'
 tags:
-  - 'Code Test'
   - 'Porgrammers'
-  - 'Leet Code'
 last_modified_at: 2021-02-28T08:06:00-05:00
 toc: true
 ---

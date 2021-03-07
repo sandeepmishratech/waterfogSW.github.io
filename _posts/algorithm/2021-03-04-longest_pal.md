@@ -5,9 +5,7 @@ excerpt: 코딩테스트 연습 > 연습문제 > 가장 긴 팰린드롬
 categories:
   - 'Algorithm'
 tags:
-  - 'Code Test'
   - 'Porgrammers'
-  - 'Leet Code'
 last_modified_at: 2021-03-04T08:06:00-05:00
 toc: true
 ---
