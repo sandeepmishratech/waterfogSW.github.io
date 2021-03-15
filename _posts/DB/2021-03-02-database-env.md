@@ -56,7 +56,10 @@ mysql> exit
 위 주소에서 mysql-community를 다운로드 받아 Workbench를 설치합니다.
 
 ### Step 2
-
+WSL쉘에서 mysql server를 실행합니다
+```
+sudo /etc/init.d/mysql start
+```
 WSL에서 서버를 실행하고 root는 remote접속이 제한되어있기 때문에 remote접속을 위한 새로운 유저를 만듭니다.
 ```
 $ sudo mysql -u root -p
