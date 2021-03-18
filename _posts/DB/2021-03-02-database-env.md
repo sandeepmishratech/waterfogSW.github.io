@@ -30,6 +30,12 @@ $sudo apt-get install mysql-server
 $mysql --version
 ```
 
+mysql서비스를 실행합니다. 
+```
+$service mysql start
+```
+
+
 ### Step 2
 다음 명령어를 실행하고 설정한 비밀번호를 입력하면 MySQL server에 연결할 수 있습니다. (비밀번호를 설정하지 않았다면 Enter누르면 됩니다)
 ```
