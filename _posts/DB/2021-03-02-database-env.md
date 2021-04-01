@@ -30,6 +30,12 @@ $sudo apt-get install mysql-server
 $mysql --version
 ```
 
+mysql서비스를 실행합니다. 
+```
+$service mysql start
+```
+
+
 ### Step 2
 다음 명령어를 실행하고 설정한 비밀번호를 입력하면 MySQL server에 연결할 수 있습니다. (비밀번호를 설정하지 않았다면 Enter누르면 됩니다)
 ```
@@ -56,7 +62,10 @@ mysql> exit
 위 주소에서 mysql-community를 다운로드 받아 Workbench를 설치합니다.
 
 ### Step 2
-
+WSL쉘에서 mysql server를 실행합니다
+```
+sudo /etc/init.d/mysql start
+```
 WSL에서 서버를 실행하고 root는 remote접속이 제한되어있기 때문에 remote접속을 위한 새로운 유저를 만듭니다.
 ```
 $ sudo mysql -u root -p
