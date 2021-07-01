@@ -1,5 +1,5 @@
 ---
-title: "[OS] 운영체제 정리 - Scheduling"
+title: "[OS] Scheduling"
 excerpt: 운영체제 Scheduling 정리
 categories:
   - 'OS'
