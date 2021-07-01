@@ -25,7 +25,7 @@ cd WSL2-Linux-Kernel
 make KCONFIG_CONFIG=Microsoft/config-wsl -j<코어개수>
 ```
 
-make 도중 다음과 같은 선택지가 나오게 되는데 TSX는 동시성 프로그래밍을 위한 하드웨어 지원기술입니다. 현재는 Meltdown공격으로 인한 보안이슈가 발생하여 지원이 중지되었다고 합니다. 저는 OFF를 
+make 도중 다음과 같은 선택지가 나오게 되는데 TSX는 동시성 프로그래밍을 위한 하드웨어 지원기술입니다. 현재는 Meltdown공격으로 인한 보안이슈가 발생하여 지원이 중지되었다고 합니다.
 
 ```
 TSX enable mode
