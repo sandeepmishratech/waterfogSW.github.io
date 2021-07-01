@@ -1,10 +1,6 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Home
-    url: /home.html
-  - titles:
-      # @start locale config
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
@@ -27,6 +23,10 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+  - titles:
+      # @start locale config
+      en      : &EN       Posts
+    url: /posts.html
   - titles:
       # @start locale config
       en      : &EN       Archive

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: [Env] WSL2 커널이미지 컴파일
+title: "[Env] WSL2 커널이미지 컴파일"
 tags: Kernel Linux WSL
 author:
   San Kim
