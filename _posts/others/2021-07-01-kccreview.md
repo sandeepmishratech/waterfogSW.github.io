@@ -1,7 +1,6 @@
 ---
+layout: article
 title:  "[Blog] KCC 2021 학회 후기"
-excerpt: "KCC 2021 학회 후기"
-
 categories:
   - Blog
 tags:
