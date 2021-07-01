@@ -1,13 +1,11 @@
 ---
-title: "[Env]WSL2 커널이미지 컴파일"
-excerpt: WSL2 커널이미지 컴파일
-categories:
-  - 'Env'
-tags:
-  - 'Kernel'
-  - 'WSL'
-last_modified_at: 2021-04-01T08:06:00-05:00
-toc : true
+layout: article
+title: [Env] WSL2 커널이미지 컴파일
+tags: Kernel Linux WSL
+author:
+  San Kim
+aside:
+    toc: true
 ---
 
 기존 WSL2은 모든 드라이버가 컴파일 되어있는 커스텀 커널을 사용합니다. 커널 모듈을 지원하지만 시스템에는 모듈이 포함되어 있지 않습니다. WSL2의 `/lib/modules`디렉토리를 확인해 보면 텅 비어있는것을 확인하실수 있습니다. 
@@ -30,8 +28,8 @@ make 도중 다음과 같은 선택지가 나오게 되는데 TSX는 동시성 �
 ```
 TSX enable mode
 > 1. off (X86_INTEL_TSX_MODE_OFF) (NEW)
-  2. on (X86_INTEL_TSX_MODE_ON) (NEW)
-  3. auto (X86_INTEL_TSX_MODE_AUTO) (NEW)
+  1. on (X86_INTEL_TSX_MODE_ON) (NEW)
+  2. auto (X86_INTEL_TSX_MODE_AUTO) (NEW)
 choice[1-3?]: 
 ```
 
