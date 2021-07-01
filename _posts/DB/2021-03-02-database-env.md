@@ -4,7 +4,7 @@ excerpt: Linux에서 mysql사용환경 만들기
 categories:
   - 'DB'
 tags:
-  - 'Database'
+  - 'DB'
   - 'MySQL'
 last_modified_at: 2021-03-02T08:06:00-05:00
 toc: true
