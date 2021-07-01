@@ -1,6 +1,6 @@
 ---
-title:  "KCC학회 후기"
-excerpt: "블로그 시작"
+title:  "KCC 2021 학회 후기"
+excerpt: "KCC 2021 학회 후기"
 
 categories:
   - Blog
