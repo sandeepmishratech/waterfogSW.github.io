@@ -1,5 +1,5 @@
 ---
-title:  "KCC 2021 학회 후기"
+title:  "[Blog] KCC 2021 학회 후기"
 excerpt: "KCC 2021 학회 후기"
 
 categories:
