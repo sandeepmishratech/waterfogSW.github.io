@@ -1,6 +1,10 @@
 header:
   - titles:
       # @start locale config
+      en      : &EN       Home
+    url: /home.html
+  - titles:
+      # @start locale config
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
