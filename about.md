@@ -25,8 +25,14 @@ titles:
   # @end locale config
 key: page-about
 ---
-![KakaoTalk_20210627_203947384](https://user-images.githubusercontent.com/28651727/123960006-c6bfd480-d9e9-11eb-889f-7c72fdb9d595.jpg)
 
+<div align=center>
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="https://user-images.githubusercontent.com/28651727/123960006-c6bfd480-d9e9-11eb-889f-7c72fdb9d595.jpg"/>
+  </div>
+</div>
+</div>
 
 ## San Kim
 
