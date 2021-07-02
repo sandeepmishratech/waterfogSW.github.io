@@ -1,14 +1,15 @@
 ---
+layout: article
 title: "[OS] RAM disk vs Disk Performance evaluation"
-excerpt: RAM disk vs Disk 성능비교
-categories:
-  - 'OS'
 tags:
   - 'OS'
   - 'Ramdisk'
   - 'Performance Evaluation'
+author:
+  San Kim
 last_modified_at: 2021-03-08T08:06:00-05:00
-toc: true
+aside:
+    toc: true
 ---
 
 # RAM disk vs Disk Performance evaluation

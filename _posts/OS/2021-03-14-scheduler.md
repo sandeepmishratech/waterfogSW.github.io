@@ -1,13 +1,12 @@
 ---
+layout: article
 title: "[OS] Scheduling"
-excerpt: 운영체제 Scheduling 정리
-categories:
-  - 'OS'
-tags:
-  - 'OS'
-  - 'Scheduling'
+tags: OS
+author:
+  San Kim
 last_modified_at: 2021-03-14T08:06:00-05:00
-toc: true
+aside:
+    toc: true
 ---
 
 ## CPU Scheduling
