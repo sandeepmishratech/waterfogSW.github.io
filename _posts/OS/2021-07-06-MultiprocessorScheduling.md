@@ -8,8 +8,6 @@ tags:
   - Scheduling
 ---
 
-# [OS] Scheduling - Multiprocessor Scheduling
-
 ## CPU Cache
 
 - 캐시는 용량이 작고, 빠른 특성때문에 자주사용되는 데이터를 주로 저장합니다
