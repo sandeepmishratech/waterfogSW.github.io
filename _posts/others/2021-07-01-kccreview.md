@@ -9,6 +9,19 @@ tags:
 last_modified_at: 2021-07-01T08:06:00-05:00
 ---
 # KCC 2021 학회 후기
+<div align=center>
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="https://user-images.githubusercontent.com/28651727/124540003-8d5bee80-de59-11eb-8dab-106f4abd7f10.jpg"/>
+  </div>
+</div>
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="https://user-images.githubusercontent.com/28651727/124540012-8fbe4880-de59-11eb-966a-f6884935ef86.jpg"/>
+  </div>
+</div>
+우연히 들린 카페에서 만난 홍철이형
+</div>
 
 ## 질문 후기
 인터랙티브 VR 스포츠 어플리케이션을 위한 다중감각 햅틱 렌더링이라는 논문에 대한 발표가 있었습니다.
