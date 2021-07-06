@@ -5,7 +5,6 @@ categories:
   - FPGA
 tags:
   - FPGA
-last_modified_at: 2021-07-06T08:06:00-05:00
 cover: https://user-images.githubusercontent.com/28651727/124542831-1a557680-de5f-11eb-94e4-a6161b632358.png
 ---
 
