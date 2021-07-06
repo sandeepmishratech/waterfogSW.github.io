@@ -7,6 +7,7 @@ tags:
   - Blog
   - KCC
 last_modified_at: 2021-07-01T08:06:00-05:00
+cover: https://user-images.githubusercontent.com/28651727/124540003-8d5bee80-de59-11eb-8dab-106f4abd7f10.jpg
 ---
 # KCC 2021 학회 후기
 <div align=center>
