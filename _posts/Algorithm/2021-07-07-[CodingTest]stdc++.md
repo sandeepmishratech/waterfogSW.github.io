@@ -1,6 +1,7 @@
 ---
 layout: article
 title:  "[Coding Test]bits/stdc++.h 란?"
+excerpt: bits/stdc++.h 헤더파일에 대해서 설명합니다.
 categories:
   - Algorithm
 tags:
@@ -17,7 +18,6 @@ cover: https://user-images.githubusercontent.com/28651727/124687580-23525080-df1
 </div>
 
 ## #include\<bits/stdc++.h\>
-
 
 코딩테스트 사이트를 돌아다니다보면 `bits/stdc++.h`라는 이름의 라이브러리를 자주 접할 수 있습니다. `stdc++.h`는 C++의 표준 라이브러리들을 헤더파일로 필요한 라이브러리들을 한번에 include할 수 있어 편리합니다. 또한 헤더파일들을 기억해 쓰는 시간을 줄여주기 때문에 시간에 민감한 대회에서 유용합니다.
 
