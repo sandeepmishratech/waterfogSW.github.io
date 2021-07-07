@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "[Blog] KCC 2021 학회 후기"
-excerpt: 제주도 ICC에서 열린 2021 한국컴퓨터종합학술대회 Korea Computer Congress 2021에 참석학였습니다.
+excerpt: 제주도 ICC에서 열린 2021 한국컴퓨터종합학술대회 Korea Computer Congress 2021에 참석하였습니다.
 categories:
   - Blog
 tags:
