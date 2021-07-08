@@ -27,7 +27,7 @@ cover: https://user-images.githubusercontent.com/28651727/124687580-23525080-df1
 
 ## Appendix
 
-```cxx
+```cpp
 // C++ includes used for precompiling -*- C++ -*-
 
 // Copyright (C) 2003-2013 Free Software Foundation, Inc.
