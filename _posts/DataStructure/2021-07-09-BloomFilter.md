@@ -94,3 +94,12 @@ $k = \frac{m}{n}ln2$
 - **Hierachical Bloom Filter** : 트리구조의 Bloom filter로 높은 정확도, 확정성, 그리고 낮은 거짓 양성률을 보입니다. 대표적으로 Forest Structured Bloom filter, Bloom Store가 있습니다. 
 - **Multidimensional Bloom Filter(MDBF)** : 다차원의 Bloom filter 배열을 사용합니다.
 - **Compressed Bloom Filter** : 공간 효율적인 Bloom filter이지만 압축률이 높아질수록 거짓양성률이 매우 높아집니다.
+
+## 활용
+
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/28651727/125037029-a3beb000-e0ce-11eb-888b-f1be9063af19.png">
+  <b>그림 출처:</b> <a href="https://en.wikipedia.org/wiki/Bloom_filter">위키피디아 블룸필터 문서</a>
+</div>
+
+Bloom Filter는 위의 그림과 같이 Filter는 메모리에 두고 실제 데이터는 Storage에 저장하여 디스크 접근시간으로 인한 성능저하를 개선할 수 있습니다. 하지만 이경우에도 거짓 양성으로인한 불필요한 디스크 접근이 발생할 수 있습니다. 
