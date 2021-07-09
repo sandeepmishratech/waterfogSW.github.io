@@ -88,9 +88,9 @@ $k = \frac{m}{n}ln2$
 
 ## Bloom Filter의 종류(Classification)
 
-- *Standard Bloom Filter(SBF)* : 전통적인 블룸필터로 거짓 양성과 거짓음성의 문제를 가지고 있습니다. 거짓양성은 비트 배열의 크기가 충분히 크기 못할때 발생하며, 거짓음성은 원소를 삭제할때 일어납니다. 이러한 문제때문에 SBF는 원소를 삭제할 수 없습니다. 
-- *Counting Bloom Filter(CBF)* : SBF의 확장성 문제를 해결하기 위해 등장하였으며, 비트배열에 카운터를 포함합니다. 삽입연산이 발생하면 카운터를 증가시키고 삭제연산이 발생하면 카운터를 감소시켜 삽입/삭제가 가능하도록 구현하였습니다. SBF에 비해 거짓 양성의 비율이 매우 높고, 삭제연산으로 인해 거짓 음성이 발생할 수 있습니다.
-- *Fingerprint Bloom Filter* : CBF기반으로 만들어 졌으며 binary bit를 사용하는 대신 작은 크기의 hash값을 사용하여 CBF의 높은 거짓 양성률을 해결하였습니다. 하지만 이로인해 CBF에 비해 높은 공간복잡도를 보입니다.
-- *Hierachical Bloom Filter* : 트리구조의 Bloom filter로 높은 정확도, 확정성, 그리고 낮은 거짓 양성률을 보입니다. 대표적으로 Forest Structured Bloom filter, Bloom Store가 있습니다. 
-- *Multidimensional Bloom Filter(MDBF)* : 다차원의 Bloom filter 배열을 사용합니다.
-- *Compressed Bloom Filter* : 공간 효율적인 Bloom filter이지만 압축률이 높아질수록 거짓양성률이 매우 높아집니다.
+- **Standard Bloom Filter(SBF)** : 전통적인 블룸필터로 거짓 양성과 거짓음성의 문제를 가지고 있습니다. 거짓양성은 비트 배열의 크기가 충분히 크기 못할때 발생하며, 거짓음성은 원소를 삭제할때 일어납니다. 이러한 문제때문에 SBF는 원소를 삭제할 수 없습니다. 
+- **Counting Bloom Filter(CBF)** : SBF의 확장성 문제를 해결하기 위해 등장하였으며, 비트배열에 카운터를 포함합니다. 삽입연산이 발생하면 카운터를 증가시키고 삭제연산이 발생하면 카운터를 감소시켜 삽입/삭제가 가능하도록 구현하였습니다. SBF에 비해 거짓 양성의 비율이 매우 높고, 삭제연산으로 인해 거짓 음성이 발생할 수 있습니다.
+- **Fingerprint Bloom Filter** : CBF기반으로 만들어 졌으며 binary bit를 사용하는 대신 작은 크기의 hash값을 사용하여 CBF의 높은 거짓 양성률을 해결하였습니다. 하지만 이로인해 CBF에 비해 높은 공간복잡도를 보입니다.
+- **Hierachical Bloom Filter** : 트리구조의 Bloom filter로 높은 정확도, 확정성, 그리고 낮은 거짓 양성률을 보입니다. 대표적으로 Forest Structured Bloom filter, Bloom Store가 있습니다. 
+- **Multidimensional Bloom Filter(MDBF)** : 다차원의 Bloom filter 배열을 사용합니다.
+- **Compressed Bloom Filter** : 공간 효율적인 Bloom filter이지만 압축률이 높아질수록 거짓양성률이 매우 높아집니다.
