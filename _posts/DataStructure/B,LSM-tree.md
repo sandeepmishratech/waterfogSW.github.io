@@ -7,9 +7,9 @@ B-tree는 디스크에서 사용하기위해 설계된 **인덱스 구조**로 R
 > 데이터베이스에서 탐색속도를 높이는데 사용되는 자료구조입니다.  
 > 인덱스 구조를 생성하고 유지하기 위해서는 추가적인 스토리지 공간과 쓰기작업과 관련된 비용이 발생합니다. 하지만 인덱스를 사용하여 쿼리하는것이 데이터베이스의 모든 행을 탐색하는것보다 훨씬 빠르기 때문에 이러한 비용은 큰문제가 되지 않습니다.
 
-B-tree를 사용하는 가장 큰 이유는 디스크 접근시간을 줄일 수 있기 때문입니다.
+B-tree를 사용하는 가장 큰 이유는 디스크 접근시간을 줄일 수 있기 때문입니다. B-tree는 2개 이상의 차수를 가진 트리구조로 비교적 적은 읽기 횟수로 데이터의 저장 위치를 알아낼 수 있습니다.  
 
-트리 명령어(search, insert, delete, max, min,... etc)들은 O(height)의 디스크 접근시간을 요구합니다. Btree
+
 
 ## LSM-Trees
 Log-Structured Merge Tree는 Patrick O’Neil이 1996년 발표한 논문 The Log-Structured Merge-Tree (LSM-Tree)에서 처음 발표되었습니다. LSM-tree는 우수한 업데이트 성능과 space amplification특성때문에 많은 key-value store 데이터베이스에서 차용되었습니다.
