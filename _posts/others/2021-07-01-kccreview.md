@@ -22,7 +22,7 @@ cover: https://user-images.githubusercontent.com/28651727/124540003-8d5bee80-de5
     <img class="image" src="https://user-images.githubusercontent.com/28651727/124540012-8fbe4880-de59-11eb-966a-f6884935ef86.jpg"/>
   </div>
 </div>
-우연히 들린 카페에서 만난 홍철이형
+카페에서 우연히 만난 홍철이형
 </div>
 
 ## 질문 후기
