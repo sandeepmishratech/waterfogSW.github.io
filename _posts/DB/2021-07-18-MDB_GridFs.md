@@ -42,7 +42,7 @@ GridFS는 큰 바이너리 파일을 `chunck`라 불리는 여러 작은 파일�
 ## Example
 GridFS를 사용하여 이미지파일을 MongoDB에 저장해보았습니다(flask활용)
 
-다음과 같이 인덱스파일과 서버파일을 작성하고 **server.py**를 실행합니다.
+다음과 같이 인덱스파일과 서버파일을 작성하고 **server.py**를 실행합니다.  
 **flaskr/server.py**
 ```python
 from bson import ObjectId
