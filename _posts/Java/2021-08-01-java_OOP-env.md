@@ -82,14 +82,14 @@ class TvTest {
 > 5. 패키지 : 모든 글자를 소문자로 사용한다. 
 
 ### 2.2 인스턴스 생성시 메모리 구조
-| 0x100         |
-| ------------- |
-| color         |
+```
+| color         | <-지역변수-> <--0x100-->
 | power         |
-| channel       |
-| power()       |
+| channel       | 
+| power()       | <--메서드-->
 | channelUp()   |
 | channelDown() |
+```
 
 ### 2.3 인스턴스 생성 및 사용
 1. `Tv t;`
