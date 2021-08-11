@@ -330,9 +330,10 @@ class Car {
 
 **클래스 초기화 블럭**
 - 클래스 변수의 복잡한 초기화에 사용된다
+- 클래스 로드시 한번만 수행
 **인스턴스 초기화 블럭**
 - 인스턴스 변수의 복잡한 초기화에 사용된다
-  
+- 인스턴스가 생성될때 마다 수행된다.
 ```java
 // 클래스 초기화 블럭
 static {
@@ -361,6 +362,28 @@ class BlockTest {
 }
 
 ```
+
+```java
+class Car {
+    static int num = 0;
+    static { 
+        System.out.println("Class loaded");
+    }
+
+    {
+        System.out.println(num++ + "번째 차");
+
+    }
+}
+public class App {
+    public static void main(String[] args) {
+        Car c1 = new Car();
+        Car c2 = new Car();
+
+    }
+}
+```
+![image](https://user-images.githubusercontent.com/28651727/128962438-da6ead9a-09e3-4e39-90f6-4f7744f1956f.png)
 
 ### 6.2 초기화 시기와 순서
 
