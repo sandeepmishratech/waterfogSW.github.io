@@ -54,7 +54,7 @@ React서버가 있는 폴더의 `package.json`파일에서 다음의 내용을 �
 
 이후 curl을 통해 확인해 보면 다른 포트로도 Spring의 내용이 출력되는것을 볼 수 있습니다.
 ```
-$curl localhost:3000/
+$curl localhost:3000/hello
 Hello World
 ```
 
