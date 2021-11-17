@@ -31,8 +31,6 @@ tags:
 <b>Figure 2 : Linux Kernel Source Organization</b>
 </div>
 
-리눅스를 설치하면 ` /usr/src/kernels `에서 리눅스의 소스를 확인할 수 있습니다. 
-
 ### kerenl
 kernel 디렉토리에는 Figure 1의 Task Manager에 해당하는 부분을이 구현된 디렉터리이다. Task 생성 및 소멸, 스케줄링, 시그널 처리 등의 기능을 구현하고 있습니다.
 
