@@ -30,7 +30,7 @@ tags:
 
 <b>Figure 2 : Linux Kernel Source Organization</b>
 
-리눅스를 설치하면 `/usr/src/kernels/`에서 리눅스의 소스를 확인할 수 있습니다. 
+리눅스를 설치하면 ` /usr/src/kernels `에서 리눅스의 소스를 확인할 수 있습니다. 
 </div>
 
 ### kerenl
