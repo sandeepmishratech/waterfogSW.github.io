@@ -16,7 +16,7 @@ tags:
 ## 리눅스 커널의 구성요소
 
 <div style="text-align:center">
-<img src=https://user-images.githubusercontent.com/28651727/142136168-764b3260-763b-42d5-8629-0af53dfd8a6c.png>
+<img src=https://user-images.githubusercontent.com/28651727/142136168-764b3260-763b-42d5-8629-0af53dfd8a6c.png></img>
 
 <b>Figure 1 : Linux Kernel</b>
 </div>
@@ -25,7 +25,8 @@ tags:
 커널의 Manager에 해당하는 요소들은 각각 Filesystem Manger는 디스크를 파일로, Memroy Manager는 메모리를 Page또는 Segment로, Task Manger는 CPU를 Task로, Network Manager는 네트워크 장치를 소켓으로, Device Manager는 block 또는 character로 물리적인 자원을 추상적인 자원으로써 제공해 줍니다.
 
 <div style="text-align:center">
-<img src=https://linux-kernel-labs.github.io/refs/heads/master/_images/ditaa-f45246aade5ecc7cfb71f7f103a57f95fc7c2b9e.png style="width : 600px"><img src=https://user-images.githubusercontent.com/28651727/142143439-9c028907-cc8b-457e-ae7d-7150913a2d8d.png style="width : 600px">
+<img src=https://linux-kernel-labs.github.io/refs/heads/master/_images/ditaa-f45246aade5ecc7cfb71f7f103a57f95fc7c2b9e.png style="width : 600px"></img>
+<img src=https://user-images.githubusercontent.com/28651727/142143439-9c028907-cc8b-457e-ae7d-7150913a2d8d.png style="width : 600px"></img>
 
 <b>Figure 2 : Linux Kernel Source Organization</b>
 
