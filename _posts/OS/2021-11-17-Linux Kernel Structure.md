@@ -17,7 +17,7 @@ tags:
 
 <div align=center>
 <div class="image">
-	<img src=https://user-images.githubusercontent.com/28651727/142136168-764b3260-763b-42d5-8629-0af53dfd8a6c.png>
+	<img class="image" src="https://user-images.githubusercontent.com/28651727/142136168-764b3260-763b-42d5-8629-0af53dfd8a6c.png"/>
 	<b>Figure 1 : Linux Kernel</b>
 </div>
 </div>
@@ -26,8 +26,8 @@ tags:
 
 <div align=center>
 <div class="image">
-	<img src=https://linux-kernel-labs.github.io/refs/heads/master/_images/ditaa-f45246aade5ecc7cfb71f7f103a57f95fc7c2b9e.png style="width : 600px">
-	<img src=https://user-images.githubusercontent.com/28651727/142143439-9c028907-cc8b-457e-ae7d-7150913a2d8d.png style="width : 600px">
+	<img src="https://linux-kernel-labs.github.io/refs/heads/master/_images/ditaa-f45246aade5ecc7cfb71f7f103a57f95fc7c2b9e.png" style="width : 600px">
+	<img src="https://user-images.githubusercontent.com/28651727/142143439-9c028907-cc8b-457e-ae7d-7150913a2d8d.png" style="width : 600px">
 
 <b>Figure 2 : Linux Kernel Source Organization</b>
 </div>
