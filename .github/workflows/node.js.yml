@@ -18,11 +18,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
+    
     - name: Install dependencies
       run: yarn install
       env:
@@ -31,6 +33,14 @@ jobs:
 
     - name: Run Build
       run: yarn build
+      env:
+        # API_KEY 에는 자신이 secret을 생성할 때 설정한 이름으로 넣어야 한다
+        GH_API_KEY: ${{ secrets.API_KEY }}
     
-    - name: Run deploy
-      run: yarn deploy
+    - name: deploy
+      uses: maxheld83/ghpages@v0.2.1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # API_KEY 에는 자신이 secret을 생성할 때 설정한 이름으로 넣어야 한다
+        GH_PAT: ${{ secrets.API_KEY }}
+        BUILD_DIR: 'public/'
