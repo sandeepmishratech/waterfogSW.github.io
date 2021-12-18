@@ -28,10 +28,10 @@ draft: false
 </div>
 
 ### kerenl
-kernel 디렉토리에는 Figure 1의 Task Manager에 해당하는 부분을이 구현된 디렉터리이다. Task 생성 및 소멸, 스케줄링, 시그널 처리 등의 기능을 구현하고 있습니다.
+kernel 디렉토리에는 Figure 1의 Task Manager에 해당하는 부분이 구현된 디렉터리입니다. Task 생성 및 소멸, 스케줄링, 시그널 처리 등의 기능을 구현하고 있습니다.
 
 ### arch
-arch 디렉토리에는 하드웨어에 종속적인 부분들을 구현한 디렉토리로 cpu의 타입에 따라 하위 디렉토리가 구성된다. 대표적인 architecture인 x86, arm등을 여기서 확인할 수 있습니다.
+arch 디렉토리에는 하드웨어에 종속적인 부분들을 구현한 디렉토리로 cpu의 타입에 따라 하위 디렉토리가 구성다. 대표적인 architecture인 x86, arm등을 여기서 확인할 수 있습니다.
 
 x86을 기준으로 살펴보면 `./arch/x86/boot`에는 부팅시 사용하는 부트 스트랩 코드, `./arch/x86/kernel`에는 task manager의 문맥교환 및 스레드 관리, `./arch/x86/mm` page fault관련 처리 기능 등 하드웨어 종속적인 부분들이 구현되어있음을 확인할 수 있습니다.
 
