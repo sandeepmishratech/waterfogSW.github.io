@@ -77,14 +77,14 @@ public class Singletone {
 비활성화 합니다.
 
 ## But race condition can occur
-하지만 다중 스레드 환경에서 객체의 생성 여부를 확인하고 생성자를 호출하는 과정은 원자성을 보장하지 못하기 때문에 경합 조건(Race Condition)을 발생시킬 수 있습니다.
+하지만 다중 스레드 환경에서 객체의 생성 여부를 확인하고 생성자를 호출하는 과정은 원자성을 보장하지 못하기 때문에 경합 상태(Race Condition)을 발생시킬 수 있습니다.
 
 1. Thread 1 : Speaker 인스턴스가 생성되지 않음을 확인함
 2. Thread 1 -> Thread 2 : Context Switch
 3. Thread 2 : Speaker 인스턴스가 생성되지 않음을 확인함
 4. Thread 2: Speaker Instance생성
 5. Thread 2 -> Thread1 : Context Switch
-6. Thread 1: Speaker Instance생성(정적 speaker 객체에 대한 경합조건 발생 -> 2개의 인스턴스 생성)
+6. Thread 1: Speaker Instance생성(정적 speaker 객체에 대한 경합 상태 발생 -> 2개의 인스턴스 생성)
 
 ## Solution
 
