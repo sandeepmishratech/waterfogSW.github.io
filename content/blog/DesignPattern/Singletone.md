@@ -176,3 +176,9 @@ JVM에 의해 `SystemSpeaker`클래스가 로드되면 클래스는 초기화를
 `getInstance()`메서드가 호출되면 `LazyHolder()`클래스를 로드하고 초기화를하는데 클래스의 초기화 단계는 JLS에 의해 순차적, 즉 비동시적임을 보장하므로 thread-safe합니다. 
 
 Singletone Pattern의 thread-safe를 보장하기 위한 가장 좋은 방법입니다.
+
+## Reference
+
+- [https://en.wikipedia.org/wiki/Singleton_pattern](https://en.wikipedia.org/wiki/Singleton_pattern)
+- [https://refactoring.guru/design-patterns/singleton](https://refactoring.guru/design-patterns/singleton)
+- [https://en.wikipedia.org/wiki/Initialization-on-demand_holder_idiom](https://en.wikipedia.org/wiki/Initialization-on-demand_holder_idiom)
