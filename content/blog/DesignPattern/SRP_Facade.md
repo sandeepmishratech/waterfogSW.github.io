@@ -11,8 +11,6 @@ draft: false
 - Facade 패턴에대한 이해
 - SRP원칙에 대한 이해
 
----
-
 ## SRP : 단일 책임 원칙(Single responsibility principle)
 
 객체는 변화해야 할 단 한가지 이유만을 가져야 합니다.
@@ -20,8 +18,6 @@ draft: false
 쉽게 생각하면 변경이 있을때 파급 효과가 적다면, 즉 수정해야 할 코드가 적다면 단일 책임 원칙을 잘 따른것이라 볼 수 있습니다.
 
 다음과 같이 SRP위반 사례를 예시로 SRP를 지켜야 하는 이유에 대해 알아보겠습니다.
-
----
 
 ## Problem 1 : Accidental duplication
 
@@ -64,8 +60,6 @@ class Employee {
 ## Problem 2 : Merge
 
 인사팀에서는 `reportHours()`를 전산팀에서는 `Employee`의 스키마를 수정하기로 동시에 결정합니다. 각 팀의 수정사항이 반영될 때 충돌 즉, 병합이 발생하게 됩니다.
-
----
 
 ## Solve
 
