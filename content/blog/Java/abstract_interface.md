@@ -4,6 +4,7 @@ date: 2022-01-01 16:21:13
 category: 'Java'
 draft: false
 ---
+# [Java] 추상클래스와 인터페이스
 
 ### Goal
 - 추상클래스와 인터페이스에 대한 이해
