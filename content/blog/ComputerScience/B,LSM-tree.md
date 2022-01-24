@@ -1,7 +1,7 @@
 ---
-title: "[DS] B-tree vs LSM-tree"
+title: "[DataStructure] B-tree vs LSM-tree"
 date: 2021-07-09 16:21:13
-category: 'Algorithm'
+category: 'ComputerScience'
 draft: true
 ---
 

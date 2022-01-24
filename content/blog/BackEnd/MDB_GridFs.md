@@ -1,7 +1,7 @@
 ---
 title: "[MongoDB] GridFS"
 date: 2021-07-18 16:21:13
-category: 'DB'
+category: 'BackEnd'
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "[CUDA]Programming Model"
 date: 2021-02-21 16:21:13
-category: 'CUDA'
+category: 'Hetero'
 draft: false
 ---
 

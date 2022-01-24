@@ -1,7 +1,7 @@
 ---
 title: "[MySql] WSL에서 mysql사용환경 만들기"
 date: 2021-03-02 16:21:13
-category: 'DB'
+category: 'BackEnd'
 draft: false
 ---
 

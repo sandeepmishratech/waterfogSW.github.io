@@ -1,7 +1,7 @@
 ---
 title: "[Kafka] Kafka설치"
 date: 2021-08-15 16:21:13
-category: 'Kafka'
+category: 'BackEnd'
 draft: false
 ---
 

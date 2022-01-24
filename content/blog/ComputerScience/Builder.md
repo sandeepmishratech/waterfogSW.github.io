@@ -1,7 +1,7 @@
 ---
 title: "[Design Pattern]Builder Pattern을 사용하는 이유"
 date: 2021-12-25 16:21:13
-category: 'DesignPattern'
+category: 'ComputerScience'
 draft: false
 ---
 

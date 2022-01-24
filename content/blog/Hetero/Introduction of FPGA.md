@@ -1,7 +1,7 @@
 ---
 title:  "[FPGA]Introduction of FPGA"
 date: 2021-07-06 16:21:13
-category: 'FPGA'
+category: 'Hetero'
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "[RocksDB] Introduction"
 date: 2021-07-01 16:21:13
-category: 'DB'
+category: 'OpenSource'
 draft: false
 ---
 

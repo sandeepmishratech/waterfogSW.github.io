@@ -1,7 +1,7 @@
 ---
 title:  "[WSL] open-ssh설정(WSL 내부아이피 포트포워딩)"
 date: 2021-08-10 16:21:13
-category: 'Env'
+category: 'OpenSource'
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "[MongoDB] Introduction"
 date: 2021-07-12 16:21:13
-category: 'DB'
+category: 'BackEnd'
 draft: false
 ---
 

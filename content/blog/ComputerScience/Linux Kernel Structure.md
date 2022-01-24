@@ -1,7 +1,7 @@
 ---
 title:  "[OS] Linux Kernel Structure"
 date: 2021-11-17 16:21:13
-category: 'OS'
+category: 'ComputerScience'
 draft: false
 ---
 

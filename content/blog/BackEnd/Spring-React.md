@@ -1,7 +1,7 @@
 ---
 title: "[Spring] SpringBoot-React 연동"
 date: 2021-10-28 16:21:13
-category: 'Spring'
+category: 'BackEnd'
 draft: false
 ---
 

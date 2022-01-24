@@ -1,7 +1,7 @@
 ---
 title: "[RocksDB] RocksDB 활용사례"
 date: 2021-07-27 16:21:13
-category: 'DB'
+category: 'OpenSource'
 draft: false
 ---
 

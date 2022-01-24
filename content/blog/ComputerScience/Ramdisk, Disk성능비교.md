@@ -1,7 +1,7 @@
 ---
 title: '[OS] RAM disk vs Disk Performance evaluation'
 date: 2021-03-08 16:21:13
-category: 'OS'
+category: 'ComputerScience'
 draft: false
 ---
 

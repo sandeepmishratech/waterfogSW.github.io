@@ -1,7 +1,7 @@
 ---
 title: "[RocksDB] RocksDB Install"
 date: 2021-07-09 16:21:13
-category: 'DB'
+category: 'OpenSource'
 draft: false
 ---
 
