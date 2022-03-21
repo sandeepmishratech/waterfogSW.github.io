@@ -1,7 +1,7 @@
 ---
 title:  "[OS] Multiprocessor Scheduling"
 date: 2021-07-06 16:21:13
-category: 'ComputerScience'
+category: 'CS'
 draft: false
 ---
 

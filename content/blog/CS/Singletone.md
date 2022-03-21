@@ -1,7 +1,7 @@
 ---
 title: "[Design Pattern]Singleton Pattern"
 date: 2021-12-19 16:21:13
-category: 'ComputerScience'
+category: 'CS'
 draft: false
 ---
 

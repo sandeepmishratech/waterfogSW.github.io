@@ -1,7 +1,7 @@
 ---
 title: '[OS] Scheduler'
 date: 2021-03-14 16:21:13
-category: 'ComputerScience'
+category: 'CS'
 draft: false
 ---
 

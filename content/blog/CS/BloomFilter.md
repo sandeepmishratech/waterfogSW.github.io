@@ -1,7 +1,7 @@
 ---
 title: "[DataStructure] Bloom filter"
 date: 2021-07-09 16:21:13
-category: 'ComputerScience'
+category: 'CS'
 draft: false
 ---
 

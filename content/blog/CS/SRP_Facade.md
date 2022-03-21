@@ -1,7 +1,7 @@
 ---
 title: "[Design Pattern]Facade 패턴을 통한 SRP원칙 준수"
 date: 2021-12-29 16:21:13
-category: 'ComputerScience'
+category: 'CS'
 draft: false
 ---
 
