@@ -11,7 +11,7 @@ draft: false
 - 객체를 생성하는 공장(Factory)
 
 
-![image](https://user-images.githubusercontent.com/28651727/159606036-eaafdc35-759b-468d-b38d-e2a4b84cf610.png)
+![image](https://user-images.githubusercontent.com/28651727/159618220-e98ea740-4d8a-41ea-b5da-cc72b36f1ef0.png)
 
 ```java
 interface Animal {
