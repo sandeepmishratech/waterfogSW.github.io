@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://waterfogsw.github.io/CS/Factory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/Java/StringBufferStringBuilder/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/Java/collectionFramework/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/Java/abstract_interface/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/CS/SRP_Facade/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/CS/Builder/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/CS/Singletone/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/CS/Linux Kernel Structure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/BackEnd/Spring-React/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/CS/2Q/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/BackEnd/kafka/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/BackEnd/kafkaCMD/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/OpenSource/wsl2_openssh/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/Java/java_OOP2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/Java/java_OOP1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/OpenSource/RDBusecases/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/BackEnd/MDB_GridFs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/OpenSource/YCSB/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/BackEnd/MDBIntro/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/CS/BloomFilter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/OpenSource/RDBInstall/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/CS/LFS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/CS/MultiprocessorScheduling/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/Hetero/Introduction of FPGA acceleration/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/Hetero/Introduction of FPGA/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/Essay/KCC2021-Review/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/OpenSource/RDBIntro/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/CS/Scheduler/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/CS/Ramdisk, Disk성능비교/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/BackEnd/Mysql-in-WSL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/Hetero/CudaProgrammingModel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://waterfogsw.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
