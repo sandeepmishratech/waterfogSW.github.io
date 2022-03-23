@@ -2,7 +2,7 @@
 title: "[Design Pattern]Factory Pattern"
 date: 2022-03-23 16:21:13
 category: 'CS'
-draft: true
+draft: false
 ---
 
 ## Factory Pattern
@@ -10,6 +10,8 @@ draft: true
 - 생성패턴의 한 종류
 - 객체를 생성하는 공장(Factory)
 
+
+![image](https://user-images.githubusercontent.com/28651727/159606036-eaafdc35-759b-468d-b38d-e2a4b84cf610.png)
 
 ```java
 interface Animal {
@@ -68,6 +70,9 @@ public class Main {
 
 
 ## Factroy Method Pattern
+
+![image](https://user-images.githubusercontent.com/28651727/159606063-7023f91a-7ffc-493c-8a27-5d8c821547b8.png)
+
 
 ```java
 interface AnimalFactory {
